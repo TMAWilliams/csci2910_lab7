@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "U5vBI0S8C2U5EIjjDuTn10DH4ncBoFE5ZZ3hlTAt0Z3FYYu57QLcKGDW7+sqnooaTxhEM5Qah8yNLZPgcxPvIw==",
+  "dgSpecHash": "HHJi8e5n3IXUyEzsW/HO7hyx2oJEMH75B40T5LJKBSgXqho6gQyEkchRXiOxJRRVbmGmWolOXMNKSTnEdQWRAA==",
   "success": true,
   "projectFilePath": "C:\\Users\\tmawi\\source\\repos\\csci2910_lab7\\csci2910_lab7\\csci2910_lab7\\csci2910_lab7.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\tmawi\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
   "logs": []
 }
