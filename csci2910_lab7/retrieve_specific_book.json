@@ -1,0 +1,84 @@
+{
+  "kind": "books#volume",
+  "id": "mxOuBAAAQBAJ",
+  "etag": "YWhHUv+Eaj4",
+  "selfLink": "https://www.googleapis.com/books/v1/volumes/mxOuBAAAQBAJ",
+  "volumeInfo": {
+    "title": "Undeniable",
+    "subtitle": "Evolution and the Science of Creation",
+    "authors": [
+      "Bill Nye"
+    ],
+    "publisher": "Macmillan",
+    "publishedDate": "2014-11-04",
+    "description": "\u003cp\u003e\u003cb\u003e\"Evolution is one of the most powerful and important ideas ever developed in the history of science. Every question it raises leads to new answers, new discoveries, and new smarter questions. The science of evolution is as expansive as nature itself. It is also the most meaningful creation story that humans have ever found.\"--Bill Nye\u003c/b\u003e\u003cbr\u003e\u003cbr\u003eSparked by a controversial debate in February 2014, Bill Nye has set off on an energetic campaign to spread awareness of evolution and the powerful way it shapes our lives. In his \u003ci\u003eNew York Times\u003c/i\u003e bestseller, \u003ci\u003eUndeniable: Evolution and the Science of Creation\u003c/i\u003e, he explains why race does not really exist; evaluates the true promise and peril of genetically modified food; reveals how new species are born, in a dog kennel and in a London subway; takes a stroll through 4.5 billion years of time; and explores the new search for alien life, including aliens right here on Earth. \u003cbr\u003e\u003cbr\u003eWith infectious enthusiasm, Bill Nye shows that evolution is much more than a rebuttal to creationism; it is an essential way to understand how nature works-and to change the world. It might also help you get a date on a Saturday night.\u003c/p\u003e",
+    "industryIdentifiers": [
+      {
+        "type": "ISBN_10",
+        "identifier": "1250007135"
+      },
+      {
+        "type": "ISBN_13",
+        "identifier": "9781250007131"
+      }
+    ],
+    "readingModes": {
+      "text": false,
+      "image": false
+    },
+    "pageCount": 309,
+    "printedPageCount": 320,
+    "dimensions": {
+      "height": "25.00 cm",
+      "width": "16.00 cm",
+      "thickness": "2.70 cm"
+    },
+    "printType": "BOOK",
+    "categories": [
+      "Science / Life Sciences / Evolution",
+      "Science / Philosophy & Social Aspects"
+    ],
+    "averageRating": 4,
+    "ratingsCount": 23,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.2.1.0.preview.0",
+    "panelizationSummary": {
+      "containsEpubBubbles": false,
+      "containsImageBubbles": false
+    },
+    "imageLinks": {
+      "smallThumbnail": "http://books.google.com/books/publisher/content?id=mxOuBAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&imgtk=AFLRE72CTZV9lvFwT45DjZNgODCGKNFGqZyEIJ-1GFSq4bd0nRdrZWS_T35KIVovv-ItiMBHsn3c7wXY87FRFUQUQpMWVsJkfDNd15V4e8NVDpbf2zjtXEgsVOldlvZ3WN2-IQm5-EIi&source=gbs_api",
+      "thumbnail": "http://books.google.com/books/publisher/content?id=mxOuBAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&imgtk=AFLRE70dQ_And4WWbS8KY4DN5c4FJiRNcVjQx_ivLBB4t7N_OfttZ3xFr0eWwJpg3Kqm2lD1AaSujeYbT43_pjUPvvKD05dYh2_mnlr2-hqOh6wBqKqZhW9csY55J6RwPQZ-9McHg1Z5&source=gbs_api",
+      "small": "http://books.google.com/books/publisher/content?id=mxOuBAAAQBAJ&printsec=frontcover&img=1&zoom=2&edge=curl&imgtk=AFLRE71Kr7T5Y8wBFv9CN2cVbaIHDUDkBTqHE9POT8BU7HdVivPAOa3fNCnkq74tIQtUUPibV8WuQ3fiyG2IcMk5I3ggeEh0nBD-F7RASRWjRlA5r7zfcSodUwrvCXRYqsXwVk0QV6Rp&source=gbs_api",
+      "medium": "http://books.google.com/books/publisher/content?id=mxOuBAAAQBAJ&printsec=frontcover&img=1&zoom=3&edge=curl&imgtk=AFLRE70YoNh2d_qK-nbrj7lKVGAbV5_QmUVbUVlU23MgPFfGMCTANTacVEJ_y9U5zUTww7dy41B7tkExXV01I8atZQ09JlouTQMlrRFe1HRlRJnoXuGQH7Hme4Go6XfXAhZeI1s2IFgP&source=gbs_api",
+      "large": "http://books.google.com/books/publisher/content?id=mxOuBAAAQBAJ&printsec=frontcover&img=1&zoom=4&edge=curl&imgtk=AFLRE71rhFbcNN8Zoj93CXHavbxaJPbM9mx0bfZrEfT9mfq4PRB9HUCw7RbbEhrc5LsNjKzHuuhU0iyVKvc6tPr_c9hM6Fk66pzttxSsNq3rpVUItd7zVR4lHP3zIPw0ikpb0bsidS9C&source=gbs_api",
+      "extraLarge": "http://books.google.com/books/publisher/content?id=mxOuBAAAQBAJ&printsec=frontcover&img=1&zoom=6&edge=curl&imgtk=AFLRE73Bzwz73P1yICGFLPFq4-PBE-QScMO1SVd9ZFaD_i57loJKdDDCHmZPYC1O9p4rdN5_l4CTsZ_pJcAukpngJXtH3gQOMAQPTlIaeBQJ1ML1bFqqHBZ2rqECuM2AI83KXRtABXbp&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=mxOuBAAAQBAJ&hl=&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=mxOuBAAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=mxOuBAAAQBAJ"
+  },
+  "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+  },
+  "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+      "isAvailable": false
+    },
+    "pdf": {
+      "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=mxOuBAAAQBAJ&hl=&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+  }
+}

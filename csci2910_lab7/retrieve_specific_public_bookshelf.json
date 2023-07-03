@@ -1,0 +1,11 @@
+{
+  "kind": "books#bookshelf",
+  "id": 1001,
+  "title": "Test",
+  "description": "This is a test bookshelf.",
+  "access": "PUBLIC",
+  "updated": "2023-06-26T20:29:16.241Z",
+  "created": "2023-06-26T20:29:16.241Z",
+  "volumeCount": 2,
+  "volumesLastUpdated": "2023-06-26T20:29:16.238Z"
+}

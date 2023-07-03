@@ -1,0 +1,150 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 2,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "Bfe0swEACAAJ",
+      "etag": "HzxrHJmCHSk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Bfe0swEACAAJ",
+      "volumeInfo": {
+        "title": "Murphy's Law",
+        "subtitle": "A Molly Murphy Mystery",
+        "authors": [
+          "Rhys Bowen"
+        ],
+        "publisher": "Minotaur Books",
+        "publishedDate": "2018-12-04",
+        "description": "The beloved debut of Rhys Bowen's New York Times bestselling Molly Murphy mystery series, Murphy's Law, re-released in trade paperback as a Minotaur Signature. From the creator of the much-loved Constable Evan Evans mysteries comes a colorful new ...",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "125029777X"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781250297778"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 256,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "averageRating": 3.5,
+        "ratingsCount": 35,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Bfe0swEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Bfe0swEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "previewLink": "http://books.google.com/books?id=Bfe0swEACAAJ&hl=&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=Bfe0swEACAAJ&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Murphy_s_Law.html?hl=&id=Bfe0swEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Bfe0swEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "S_vgrQEACAAJ",
+      "etag": "8NlGj/7uY7M",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/S_vgrQEACAAJ",
+      "volumeInfo": {
+        "title": "Undeniable",
+        "subtitle": "Evolution and the Science of Creation",
+        "authors": [
+          "Bill Nye"
+        ],
+        "publisher": "St. Martin's Griffin",
+        "publishedDate": "2015-09-08",
+        "description": "The New York Times best seller by the host of Bill Nye the Science Guy, with a brand new chapter for the paperback edition! \"Evolution is one of the most powerful and important ideas ever developed in the history of science. Every question it ...",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1250074223"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781250074225"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": [
+          "Science"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 22,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=S_vgrQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=S_vgrQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "previewLink": "http://books.google.com/books?id=S_vgrQEACAAJ&hl=&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=S_vgrQEACAAJ&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Undeniable.html?hl=&id=S_vgrQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=S_vgrQEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "mxOuBAAAQBAJ",
+      "etag": "VaWlPBlbddA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/mxOuBAAAQBAJ",
+      "volumeInfo": {
+        "title": "Undeniable",
+        "subtitle": "Evolution and the Science of Creation",
+        "authors": [
+          "Bill Nye"
+        ],
+        "publisher": "Macmillan",
+        "publishedDate": "2014-11-04",
+        "description": "Revealing the mechanics of evolutionary theory, the scientist, engineer and inventor presents a compelling argument for the scientific unviability of creationism and insists that creationism's place in the science classroom is harmful not only to our children, but to the future of the greater world as well.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781250007131"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1250007135"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 320,
+        "printType": "BOOK",
+        "categories": [
+          "Science"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 23,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.2.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=mxOuBAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=mxOuBAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=mxOuBAAAQBAJ&printsec=frontcover&dq=intitle:%22Undeniable%22+inauthor:%22Bill+Nye%22&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=mxOuBAAAQBAJ&dq=intitle:%22Undeniable%22+inauthor:%22Bill+Nye%22&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Undeniable.html?hl=&id=mxOuBAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=mxOuBAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "From the host of &quot;Bill Nye the Science Guy&quot; comes an impassioned explanation of how the science of our origins is fundamental to our understanding of the nature of science"
+      }
+    }
+  ]
+}
